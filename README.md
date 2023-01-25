@@ -21,6 +21,11 @@ I think we have to explore our the world, that why I'm always trying to be opene
 - [x] LaTeX
 - [x] Statistica
 - [x] SPSS
+- [x] Jupiter Notebook
+- [x] Atom
+- [x] Visual Studio Code
+- [x] RStudio
+- [x] texmaker
 
 # Hobbys (what I like)
 * sport in an active (running :runner:, playing tennis :tennis:) and passive way (racing and car rallies :checkered_flag::oncoming_automobile:, tennis :tennis:, football :soccer:)
