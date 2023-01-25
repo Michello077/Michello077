@@ -23,7 +23,7 @@ I think we have to explore our the world, that why I'm always trying to be opene
 - [x] SPSS
 
 # Hobbys (what I like)
-> * sport in an active (running :runner:, playing tennis :tennis:) and passive way (racing and car rallies :checkered_flag::oncoming_automobile:, tennis :tennis:, football :soccer:)
-> * polish alternative music :musical_keyboard:
-> * the latest trends in technology :iphone:
-> * architecture (the old :japanese_castle: and the new one :office:)
+* sport in an active (running :runner:, playing tennis :tennis:) and passive way (racing and car rallies :checkered_flag::oncoming_automobile:, tennis :tennis:, football :soccer:)
+* polish alternative music :musical_keyboard:
+* the latest trends in technology :iphone:
+* architecture (the old :japanese_castle: and the new one :office:)
