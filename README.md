@@ -18,6 +18,8 @@ I think we have to explore our the world, that why I'm always trying to be opene
 - [x] SQL
 - [x] Bash
 - [x] Linux
+- [x] macOS
+- [x] git
 - [x] LaTeX
 - [x] Statistica
 - [x] SPSS
