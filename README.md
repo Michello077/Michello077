@@ -1,4 +1,4 @@
-[]([Github_baner.png](https://github.com/Michello077/Michello077/blob/main/Github_baner.png))
+![](https://github.com/Michello077/Michello077/blob/main/Github_baner.png)
 
 # Education and experience
 Master's degree in **Genetics and Experimental Biology** :microscope: at the University of Wrocław, Bachelor's degree in **Bioinformatics** :computer: at the Wrocław University of Environmental and Life Sciences, currently postgraduate studies in **Data Science** :chart_with_upwards_trend: at the University of Lower Silesia and during the **Data Scientist in Python** :snake: course in DataQuest - so far and maybe more in the future. I was a prefect for 2 years of study and I took an active part in numerous student science clubs as a chairman or participant.
