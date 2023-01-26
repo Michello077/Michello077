@@ -1,7 +1,7 @@
 ![](https://github.com/Michello077/Michello077/blob/main/Github_baner.png)
-LinkedIn profile:
-:point_right (English): https://www.linkedin.com/in/michal-huminski/?locale=en_US \
-:point_right (Polish): https://www.linkedin.com/in/michal-huminski/
+LinkedIn profile:\
+:point_right: (English): https://www.linkedin.com/in/michal-huminski/?locale=en_US \
+:point_right: (Polish): https://www.linkedin.com/in/michal-huminski/
 
 # Education and experience
 Master's degree in **Genetics and Experimental Biology** :microscope: at the University of Wrocław, Bachelor's degree in **Bioinformatics** :computer: at the Wrocław University of Environmental and Life Sciences, currently postgraduate studies in **Data Science** :chart_with_upwards_trend: at the University of Lower Silesia and during the **Data Scientist in Python** :snake: course in Dataquest - so far and maybe more in the future.\
