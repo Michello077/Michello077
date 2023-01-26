@@ -1,6 +1,6 @@
 ![](https://github.com/Michello077/Michello077/blob/main/Github_baner.png)
 LinkedIn profile:
-:point_right (English): https://www.linkedin.com/in/michal-huminski/?locale=en_US\
+:point_right (English): https://www.linkedin.com/in/michal-huminski/?locale=en_US /
 :point_right (Polish): https://www.linkedin.com/in/michal-huminski/
 
 # Education and experience
