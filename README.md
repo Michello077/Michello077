@@ -2,7 +2,7 @@
 :point_right: LinkedIn profile: https://www.linkedin.com/in/michal-huminski/?locale=en_US
 
 # Education and experience
-Master's degree in **Genetics and Experimental Biology** :microscope: at the University of Wrocław, Bachelor's degree in **Bioinformatics** :computer: at the Wrocław University of Environmental and Life Sciences, currently postgraduate studies in **Data Science** :chart_with_upwards_trend: at the University of Lower Silesia and during the **Data Scientist in Python** :snake: course in DataQuest - so far and maybe more in the future. I was a prefect for 2 years of study and I took an active part in numerous student science clubs as a chairman or participant.
+Master's degree in **Genetics and Experimental Biology** :microscope: at the University of Wrocław, Bachelor's degree in **Bioinformatics** :computer: at the Wrocław University of Environmental and Life Sciences, currently postgraduate studies in **Data Science** :chart_with_upwards_trend: at the University of Lower Silesia and during the **Data Scientist in Python** :snake: course in Dataquest - so far and maybe more in the future. I was a prefect for 2 years of study and I took an active part in numerous student science clubs as a chairman or participant.
 
 # Skills and used tools
 I am interested in the widely understood data analysis and visualisation, using technologies in programming languages such as **Python** (including Pandas, Numpy, Matplotlib or Seaborn packages) and **R**. Currently, I want to develop towards databases, learning **SQL**, **Julia** and **machine learning**. I think it's nice to combine technology with a more "natural" area - the natural sciences (including biology) are still largely undiscovered.
