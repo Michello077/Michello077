@@ -36,6 +36,6 @@ I think we have to explore the world, that is why I'm always trying to be open t
 
 # Hobbys (what I like)
 * sport in an active (running :runner:, playing tennis :tennis:) and passive way (racing and car rallies :checkered_flag::oncoming_automobile:, tennis :tennis:, football :soccer:)
-* polish alternative music :musical_keyboard:
+* polish alternative music :headphones:
 * the latest trends in technology :iphone:
 * architecture (the old :japanese_castle: and the new one :office:)
