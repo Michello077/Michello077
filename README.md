@@ -31,6 +31,7 @@ I think we have to explore the world, that is why I'm always trying to be open t
 - [x] Atom
 - [x] Visual Studio Code
 - [x] RStudio
+- [x] MS Office (MS Excel)
 - [x] texmaker
 
 # Hobbys (what I like)
