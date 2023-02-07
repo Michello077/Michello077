@@ -24,6 +24,7 @@ I think we have to explore the world, that is why I'm always trying to be open t
 - [x] Linux
 - [x] macOS
 - [x] git
+- [x] Tableau
 - [x] LaTeX
 - [x] Statistica
 - [x] SPSS
