@@ -29,7 +29,7 @@ I think we have to explore the world, that is why I'm always trying to be open t
 - [x] Statistica
 - [x] SPSS
 - [x] Jupiter Notebook
-- [x] Atom
+- [x] PyCharm
 - [x] Visual Studio Code
 - [x] RStudio
 - [x] MS Office (MS Excel)
