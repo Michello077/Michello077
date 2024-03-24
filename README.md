@@ -20,7 +20,7 @@ I think we have to explore the world, that is why I'm always trying to be open t
 # Known technology
 - [x] Python :snake: (Biopython, Matplotlib, NumPy, Pandas, SciPy, Seaborn)
 - [x] Python IDE (Jupiter Notebook, PyCharm, Visual Studio Code)
-- [x] Machine Learning (scikit-learn, Tensorflow)
+- [x] Machine Learning (scikit-learn, TensorFlow)
 - [x] R (caret, dplyr, ggplot2, tidyr, shiny)
 - [x] R IDE (RStudio)
 - [x] SQL (SQLite MySQL, PostgreSQL)
