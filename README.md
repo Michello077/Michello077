@@ -4,9 +4,9 @@ LinkedIn profile:\
 :point_right: (Polish): https://www.linkedin.com/in/michal-huminski/
 
 # Experience
-I have one year of experience as a **Data Analyst** and **Data Scientist**. I work with **bio-data** :fish: and manage it in a database on **Snowflake platform**.\
-I use **Python**, **R** and **SQL** languages on a daily basis. I prepare **statistical analyses** and **visualize results** for the R&D department. I calculate and estimate selected biological parameters.\
-I also implement **machine learning solutions** and **prepare applications** using the **Streamlit library** for internal use.
+I have one year of experience as a **Data Analyst** and **Data Scientist** in DXC Technology. I work with **bio-data** :fish: and manage it in a database on **Snowflake platform**. I integrate data from various systems and schemas and supervise the data used by the analytical team and researchers.\
+I use **Python**, **R** and **SQL** languages on a daily basis. I prepare **statistical analyses** and **visualize results** for the R&D department. I also calculate and estimate selected biological parameters.\
+I am currently **implementing machine learning solutions** and **preparing application** using the **Streamlit library** for internal use.
 
 # Education
 Master's degree in **Genetics and Experimental Biology** :microscope: at the University of Wrocław, Bachelor's degree in **Bioinformatics** :computer: at the Wrocław University of Environmental and Life Sciences and postgraduate studies in **Data Science** :chart_with_upwards_trend: at the University of Lower Silesia.\
