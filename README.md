@@ -23,7 +23,7 @@ I think we have to explore the world, that is why I'm always trying to be open t
 - [x] Machine Learning (scikit-learn, Tensorflow)
 - [x] R (caret, dplyr, ggplot2, tidyr, shiny)
 - [x] R IDE (RStudio)
-- [x] SQL (MySQL, PostgreSQL)
+- [x] SQL (SQLite MySQL, PostgreSQL)
 - [x] Snowflake :snowflake: platform (Snowflake SQL + Snowpark API for Python)
 - [x] Microsoft Azure platform (DP-900 certificate :mortar_board:)
 - [x] Streamlit library
